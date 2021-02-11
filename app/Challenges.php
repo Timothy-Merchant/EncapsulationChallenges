@@ -14,7 +14,7 @@ class Challenges
         /* uncomment one at a time */
 
         $this->counter(); // 01
-        // $this->beanCounter(); // 02
+        $this->beanCounter(); // 02
         // $shelf = $this->shelf(); // 03
         // $this->library($shelf); // 04
 
