@@ -15,13 +15,13 @@ class Challenges
 
         // $this->counter(); // 01
         // $this->beanCounter(); // 02
-        $shelf = $this->shelf(); // 03
-        $this->library($shelf); // 04
+        // $shelf = $this->shelf(); // 03
+        // $this->library($shelf); // 04
 
         /* kick-off Tricksy challenges */
 
-        // $tricksy = new Tricksy();
-        // $tricksy->start();
+        $tricksy = new Tricksy();
+        $tricksy->start();
     }
 
     public function counter()

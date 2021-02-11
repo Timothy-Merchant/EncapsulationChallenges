@@ -10,7 +10,7 @@ class Challenges
 
         /* load challenges */
 
-        // $this->bike(); // 01
+        $this->bike(); // 01
     }
 
     public function bike()
