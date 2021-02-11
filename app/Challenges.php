@@ -16,7 +16,7 @@ class Challenges
         // $this->counter(); // 01
         // $this->beanCounter(); // 02
         $shelf = $this->shelf(); // 03
-        // $this->library($shelf); // 04
+        $this->library($shelf); // 04
 
         /* kick-off Tricksy challenges */
 
